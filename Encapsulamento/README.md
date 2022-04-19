@@ -6,10 +6,10 @@ O objetivo do Encapsulamento é garantir que os dados "sensíveis" estão escond
 - fornecer métodos públicos para acesso (GET) e atualização (SET) do valor de uma variável privada
 
 > BENEFÍCIOS
-- Melhor controle dos atributos e métodos de classe
-- Atributos de classe podem ser feitos somente leitura (se você usar apenas o método get) ou somente gravação (se você usar apenas o método set)
-- Flexível: o programador pode alterar uma parte do código sem afetar outras partes
-- Maior segurança de dados
+- melhor controle dos atributos e métodos de classe
+- atributos de classe podem ser feitos somente leitura (se você usar apenas o método get) ou somente gravação (se você usar apenas o método set)
+- flexível: o programador pode alterar uma parte do código sem afetar outras partes
+- maior segurança de dados
 
 > MODIFICADORES
 - public: A instrução é acessível em todas as classes do projeto
