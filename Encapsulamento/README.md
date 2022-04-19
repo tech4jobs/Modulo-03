@@ -1,7 +1,7 @@
 ## ENCAPSULAMENTO
 
-> OBJETIVO
-O significado do Encapsulamento é garantir que os dados "sensíveis" estão escondidos dos usuários e as vezes dos programadores. Para conseguir isso você deve:
+> CONCEITO
+O objetivo do Encapsulamento é garantir que os dados "sensíveis" estão escondidos dos usuários e as vezes dos programadores. Para conseguir isso você deve:
 - declarar variáveis/atributos de classe como privados
 - fornecer métodos públicos para acesso (GET) e atualização (SET) do valor de uma variável privada
 
